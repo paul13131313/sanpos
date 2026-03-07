@@ -1,5 +1,4 @@
-Library/
 .Trash
-node_modules/
-.git/
-*.orig
+Library/
+.git
+node_modules
